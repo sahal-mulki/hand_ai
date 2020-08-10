@@ -11,4 +11,9 @@ If you want to use this for something, open a issue describing what you want to 
 
 # Usage
 
+(It takes some time to load and initialize)
+
+![IMAGE](https://raw.githubusercontent.com/lepythoner/hand_ai/master/images/cv.jpg)
+![IMAGE2](https://raw.githubusercontent.com/lepythoner/hand_ai/master/images/Capture.PNG)
+
 _**By Sahal Mulki**_
