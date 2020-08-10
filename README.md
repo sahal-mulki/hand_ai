@@ -11,7 +11,7 @@ If you want to use this for something, open a issue describing what you want to 
 
 # Usage
 
-(It takes some time to load and initialize)
+(It takes some time to load and initialize and this has been trained on me so it may not work for you)
 
 ![IMAGE](https://raw.githubusercontent.com/lepythoner/hand_ai/master/images/cv.jpg)
 ![IMAGE2](https://raw.githubusercontent.com/lepythoner/hand_ai/master/images/Capture.png)
