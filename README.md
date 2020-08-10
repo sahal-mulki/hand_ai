@@ -16,4 +16,17 @@ If you want to use this for something, open a issue describing what you want to 
 ![IMAGE](https://raw.githubusercontent.com/lepythoner/hand_ai/master/images/cv.jpg)
 ![IMAGE2](https://raw.githubusercontent.com/lepythoner/hand_ai/master/images/Capture.png)
 
+Try to have a plain white background and a lightly lit place
+
+# Troubleshooting
+
+If you get a error like this:
+
+```
+    cv2.imwrite("cv.jpg", image)
+cv2.error: OpenCV(4.3.0) C:\opencv\modules\imgcodecs\src\loadsave.cpp:738: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+```
+
+Try running the program a few more times, and if that **doesn't work** open a issue with a bug label.
+
 _**By Sahal Mulki**_
