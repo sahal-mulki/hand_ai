@@ -14,6 +14,6 @@ If you want to use this for something, open a issue describing what you want to 
 (It takes some time to load and initialize)
 
 ![IMAGE](https://raw.githubusercontent.com/lepythoner/hand_ai/master/images/cv.jpg)
-![IMAGE2](https://raw.githubusercontent.com/lepythoner/hand_ai/master/images/Capture.PNG)
+![IMAGE2](https://raw.githubusercontent.com/lepythoner/hand_ai/master/images/Capture.png)
 
 _**By Sahal Mulki**_
