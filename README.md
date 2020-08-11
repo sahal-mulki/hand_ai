@@ -32,7 +32,7 @@ opencv-python
 
 # Credit
 
-If you want to use this for something, open a issue describing what you want to use it for and I will review it.
+If you want to use this (for your own program not just for having a look at it or running it) for something, open a issue describing what you want to use it for and I will review it.
 
 # Installation
 
