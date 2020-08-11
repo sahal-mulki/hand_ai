@@ -39,7 +39,7 @@ If you want to use this for something, open a issue describing what you want to 
 Install all the needed packages by using
 
 ```
-pip I stall requiremens.txt
+pip install requiremens.txt
 ```
 
 in folder in which requirements.txt is located in.
