@@ -42,7 +42,7 @@ Install all the needed packages by using
 pip install requiremens.txt
 ```
 
-in folder in which requirements.txt is located in.
+in the folder in which requirements.txt is located in.
 # Usage
 
 (It takes some time to load and initialize and this has been trained on me so it may not work for you)
