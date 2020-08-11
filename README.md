@@ -16,7 +16,7 @@ If you want to use this for something, open a issue describing what you want to 
 ![IMAGE](https://raw.githubusercontent.com/lepythoner/hand_ai/master/images/cv.jpg)
 ![IMAGE2](https://raw.githubusercontent.com/lepythoner/hand_ai/master/images/Capture.png)
 
-Try to have a plain white background and a lightly lit place
+Try to have a plain white background and a lightly lit place.
 
 # Troubleshooting
 
@@ -28,5 +28,20 @@ cv2.error: OpenCV(4.3.0) C:\opencv\modules\imgcodecs\src\loadsave.cpp:738: error
 ```
 
 Try running the program a few more times, and if that **doesn't work** open a issue with a bug label.
+
+# Why isn't this in my_python_scripts?
+
+I thought that this is a little bigger, and 
+its not really a script and it's a thing on it's own, so I thought it deserves a repository of it's own.
+
+
+
+
+
+
+
+Thanks for having a look at this,
+
+
 
 _**By Sahal Mulki**_
