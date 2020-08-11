@@ -1,9 +1,34 @@
 # hand_ai
 ### A program which can be implemented in online classes, to detect when a student is raising their hand.
 
+# How it was made:
+
+### Summary:
+
 This AI model was made in https://teachablemachine.withgoogle.com/ and then it was exported
 into a .h5 file and then using [CV2](https://pypi.org/project/opencv-python/) it takes a photo
 using your webcam. It saves it and then analyses it, prints what it thinks it is and deletes the photo.
+
+### AI specifications:
+
+**V1.00 has been trained on:**
+
+50 Epochs  
+Batch size : 16  
+Learning rate : 0.001  
+
+**V1.50 has been trained on:**
+
+100 Epochs (for better performance)  
+Batch size : 16  
+Learning rate : 0.001  
+
+### Libraries:
+
+tensorflow  
+Pillow  
+numpy  
+opencv-python  
 
 # Credit
 
