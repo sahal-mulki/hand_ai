@@ -70,16 +70,16 @@ its not really a script and it's a thing on it's own, so I thought it deserves a
 
 # I dont have Python !
 
-There's a easier way to view the Model then python,
-you can also have a look at this link :
+There's a easier way to view the Model than python, you can also have a look at this link :
 
 https://teachablemachine.withgoogle.com/models/8AXz2b2O1/
-
+  
   
 
 
 
-
+  
+  
 Thanks for having a look at this,
 
 
