@@ -75,7 +75,7 @@ you can also have a look at this link :
 
 https://teachablemachine.withgoogle.com/models/8AXz2b2O1/
 
-
+  
 
 
 
