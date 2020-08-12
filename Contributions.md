@@ -11,4 +11,4 @@
    As for the model let it stay in the h5 format instead of a TensorFlow SavedModel type.
    And then I will review it. 👍
 
-_*Sahal Mulki*_
+_**Sahal Mulki**_
