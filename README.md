@@ -68,6 +68,12 @@ Try running the program a few more times, and if that **doesn't work** open a is
 I thought that this is a little bigger, and 
 its not really a script and it's a thing on it's own, so I thought it deserves a repository of it's own.
 
+# I dont have Python !
+
+There's a easier way to view the Model then python,
+you can also have a look at this link :
+
+https://teachablemachine.withgoogle.com/models/8AXz2b2O1/
 
 
 
