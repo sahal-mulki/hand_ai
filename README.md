@@ -47,7 +47,6 @@ in the folder in which requirements.txt is located in.
 
 (It takes some time to load and initialize and this has been trained on me so it may not work for you)
 
-![IMAGE](https://raw.githubusercontent.com/lepythoner/hand_ai/master/images/cv.jpg)
 ![IMAGE2](https://raw.githubusercontent.com/lepythoner/hand_ai/master/images/Capture.png)
 
 Try to have a plain white background and a lightly lit place.
